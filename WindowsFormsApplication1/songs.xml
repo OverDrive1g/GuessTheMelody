@@ -1,0 +1,255 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<songs>
+	<song>
+		<name>Aндрей Миронов</name>
+    <fullName>Aндрей Миронов – Вдруг, как в сказке, скрипнула дверь</fullName>
+		<file>dxeZbpef.mp3</file>
+		<variants>
+			<answer>Aндрей Миронов</answer>
+			<answer>Любе</answer>
+			<answer>PHARAON</answer>
+			<answer>Твоя мамка</answer>
+		</variants>
+	</song>
+
+  <song>
+    <name>Аида Ведищева</name>
+    <fullName>Аида Ведищева - Звенит январская вьюга</fullName>
+    <file>5MDkh7E6.mp3</file>
+    <variants>
+      <answer>Aндрей Миронов</answer>
+      <answer>Любе</answer>
+      <answer>PHARAON</answer>
+      <answer>Аида Ведищева</answer>
+    </variants>
+  </song>
+
+  <song>
+    <name>Айдамир Мугу</name>
+    <fullName>Айдамир Мугу - Чёрные глаза</fullName>
+    <file>u9Z8AnsR.mp3</file>
+    <variants>
+      <answer>Aндрей Миронов</answer>
+      <answer>Любе</answer>
+      <answer>Айдамир Мугу</answer>
+      <answer>Аида Ведищева</answer>
+    </variants>
+  </song>
+  
+  <song>
+    <name>АЛСУ</name>
+    <fullName>АЛСУ - ЗИМНИЙ СОН</fullName>
+    <file>psfR7tXq.mp3</file>
+    <variants>
+      <answer>Aндрей Миронов</answer>
+      <answer>АЛСУ</answer>
+      <answer>Айдамир Мугу</answer>
+      <answer>Аида Ведищева</answer>
+    </variants>
+  </song>
+  
+  <song>
+    <name>Валерий Леонтьев</name>
+    <fullName>Валерий Леонтьев - Зелёный свет</fullName>
+    <file>hexxHFTj.mp3</file>
+    <variants>
+      <answer>Aндрей Миронов</answer>
+      <answer>АЛСУ</answer>
+      <answer>Валерий Леонтьев</answer>
+      <answer>Аида Ведищева</answer>
+    </variants>
+  </song>
+  
+  <song>
+    <name>Виктор Цой</name>
+    <fullName>Виктор Цой -  Белый снег, серый лед</fullName>
+    <file>ymUGm6hU.mp3</file>
+    <variants>
+      <answer>Aндрей Миронов</answer>
+      <answer>АЛСУ</answer>
+      <answer>Виктор Цой</answer>
+      <answer>Аида Ведищева</answer>
+    </variants>
+  </song>
+
+  <song>
+    <name>Глюкоза</name>
+    <fullName>Глюкоза - Невеста</fullName>
+    <file>VZ7cuzwQ.mp3</file>
+    <variants>
+      <answer>Aндрей Миронов</answer>
+      <answer>Глюкоза</answer>
+      <answer>Виктор Цой</answer>
+      <answer>Аида Ведищева</answer>
+    </variants>
+  </song>
+
+  <song>
+    <name>Григорий Лепс</name>
+    <fullName>Григорий Лепс - Рюмка водки</fullName>
+    <file>LnmmTvU6.mp3</file>
+    <variants>
+      <answer>Григорий Лепс</answer>
+      <answer>Глюкоза</answer>
+      <answer>Виктор Цой</answer>
+      <answer>Аида Ведищева</answer>
+    </variants>
+  </song>
+
+  <song>
+    <name>Жуки</name>
+    <fullName>Жуки - Батарейка</fullName>
+    <file>9Q95Z8ke.mp3</file>
+    <variants>
+      <answer>Григорий Лепс</answer>
+      <answer>Глюкоза</answer>
+      <answer>Виктор Цой</answer>
+      <answer>Жуки</answer>
+    </variants>
+  </song>
+
+  <song>
+    <name>Игорь Корнелюк</name>
+    <fullName>Игорь Корнелюк - Дожди</fullName>
+    <file>rCQSKW3y.mp3</file>
+    <variants>
+      <answer>Григорий Лепс</answer>
+      <answer>Игорь Корнелюк</answer>
+      <answer>Виктор Цой</answer>
+      <answer>Жуки</answer>
+    </variants>
+  </song>
+
+  <song>
+    <name>Кристалинская Майя</name>
+    <fullName>Кристалинская Майя - А Снег Идёт</fullName>
+    <file>RssBA3LV.mp3</file>
+    <variants>
+      <answer>Григорий Лепс</answer>
+      <answer>Игорь Корнелюк</answer>
+      <answer>Кристалинская Майя</answer>
+      <answer>Жуки</answer>
+    </variants>
+  </song>
+  
+  <song>
+    <name>Ласковый май</name>
+    <fullName>Ласковый май - Седая ночь</fullName>
+    <file>mpwFN8G6.mp3</file>
+    <variants>
+      <answer>Григорий Лепс</answer>
+      <answer>Ласковый май</answer>
+      <answer>Кристалинская Майя</answer>
+      <answer>Жуки</answer>
+    </variants>
+  </song>
+
+  <song>
+    <name>Любэ</name>
+    <fullName>Любэ - Выйду ночью в поле с конём</fullName>
+    <file>bLbYfp8r.mp3</file>
+    <variants>
+      <answer>Григорий Лепс</answer>
+      <answer>Ласковый май</answer>
+      <answer>Кристалинская Майя</answer>
+      <answer>Любэ</answer>
+    </variants>
+  </song>
+  
+  <song>
+    <name>Любэ</name>
+    <fullName>Любэ - Давай За жизнь</fullName>
+    <file>wBdE6nJ8.mp3</file>
+    <variants>
+      <answer>Любэ</answer>
+      <answer>Ласковый май</answer>
+      <answer>Кристалинская Майя</answer>
+      <answer>Глюкоза</answer>
+    </variants>
+  </song>
+
+  <song>
+    <name>Любэ</name>
+    <fullName>Любэ - Давай За жизнь</fullName>
+    <file>wBdE6nJ8.mp3</file>
+    <variants>
+      <answer>Любэ</answer>
+      <answer>Ласковый май</answer>
+      <answer>Кристалинская Майя</answer>
+      <answer>Глюкоза</answer>
+    </variants>
+  </song>
+  
+  <song>
+    <name>Народные</name>
+    <fullName>Народные - Смуглянка</fullName>
+    <file>axrWNpgQ.mp3</file>
+    <variants>
+      <answer>Народные</answer>
+      <answer>Ласковый май</answer>
+      <answer>Кристалинская Майя</answer>
+      <answer>Глюкоза</answer>
+    </variants>
+  </song>
+  
+  <song>
+    <name>Николай Басков</name>
+    <fullName>Николай Басков - Я буду руки твои целовать</fullName>
+    <file>F2feqm7j.mp3</file>
+    <variants>
+      <answer>Николай Басков</answer>
+      <answer>Ласковый май</answer>
+      <answer>Кристалинская Майя</answer>
+      <answer>Глюкоза</answer>
+    </variants>
+  </song>
+  
+  <song>
+    <name>Руки Вверх</name>
+    <fullName>Руки Вверх – Он тебя целует</fullName>
+    <file>ZvQQmAYZ.mp3</file>
+    <variants>
+      <answer>Николай Басков</answer>
+      <answer>Ласковый май</answer>
+      <answer>Кристалинская Майя</answer>
+      <answer>Руки Вверх</answer>
+    </variants>
+  </song>
+  
+  <song>
+    <name>София Ротару</name>
+    <fullName>София Ротару - Только этого мало</fullName>
+    <file>fzq9GBxY.mp3</file>
+    <variants>
+      <answer>Николай Басков</answer>
+      <answer>Ласковый май</answer>
+      <answer>София Ротару</answer>
+      <answer>Руки Вверх</answer>
+    </variants>
+  </song>
+
+  <song>
+    <name>Юрий Шатунов</name>
+    <fullName>Юрий Шатунов - Белые розы</fullName>
+    <file>zy2XbKhc.mp3</file>
+    <variants>
+      <answer>Николай Басков</answer>
+      <answer>Ласковый май</answer>
+      <answer>София Ротару</answer>
+      <answer>Юрий Шатунов</answer>
+    </variants>
+  </song>
+
+  <song>
+    <name>Юрий Шатунов</name>
+    <fullName>Юрий Шатунов - Ласковый май - Детство</fullName>
+    <file>JyZDdMFx.mp3</file>
+    <variants>
+      <answer>Николай Басков</answer>
+      <answer>Ласковый май</answer>
+      <answer>Воробьев Алексей</answer>
+      <answer>Юрий Шатунов</answer>
+    </variants>
+  </song>
+
+</songs>

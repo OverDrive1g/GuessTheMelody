@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<records>
+	<record>
+		<name>Вася</name>
+		<level>Легкий</level>
+		<score>5</score>
+	</record>
+	<record>
+		<name>Вася</name>
+		<level>Средний</level>
+		<score>6</score>
+	</record>
+	<record>
+		<name>Вася</name>
+		<level>Сложный</level>
+		<score>20</score>
+	</record>
+	<record>
+		<name>Вася</name>
+		<level>Легкий</level>
+		<score>8</score>
+	</record>
+	<record>
+		<name>Вася</name>
+		<level>Легкий</level>
+		<score>3</score>
+	</record>
+</records>
