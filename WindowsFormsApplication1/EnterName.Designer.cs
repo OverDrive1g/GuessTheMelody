@@ -1,4 +1,4 @@
-﻿namespace WindowsFormsApplication1
+﻿namespace GuessTheMelody
 {
     partial class EnterName
     {
@@ -36,7 +36,7 @@
             // pictureBox1
             // 
             this.pictureBox1.BackColor = System.Drawing.Color.Transparent;
-            this.pictureBox1.BackgroundImage = global::WindowsFormsApplication1.Properties.Resources.Ок__Свечение_;
+            this.pictureBox1.BackgroundImage = global::GuessTheMelody.Properties.Resources.Ок__Свечение_;
             this.pictureBox1.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
             this.pictureBox1.Location = new System.Drawing.Point(95, 132);
             this.pictureBox1.Name = "pictureBox1";
@@ -57,7 +57,7 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.BackgroundImage = global::WindowsFormsApplication1.Properties.Resources.введите_имя1;
+            this.BackgroundImage = global::GuessTheMelody.Properties.Resources.введите_имя1;
             this.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
             this.ClientSize = new System.Drawing.Size(328, 203);
             this.Controls.Add(this.textBox1);

@@ -1,4 +1,4 @@
-﻿namespace WindowsFormsApplication1
+﻿namespace GuessTheMelody
 {
     partial class MainForm
     {
@@ -88,7 +88,7 @@
             // recordsPicBox
             // 
             this.recordsPicBox.BackColor = System.Drawing.Color.Transparent;
-            this.recordsPicBox.BackgroundImage = global::WindowsFormsApplication1.Properties.Resources.Рекорды;
+            this.recordsPicBox.BackgroundImage = global::GuessTheMelody.Properties.Resources.Рекорды;
             this.recordsPicBox.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
             this.recordsPicBox.Location = new System.Drawing.Point(306, 102);
             this.recordsPicBox.Name = "recordsPicBox";

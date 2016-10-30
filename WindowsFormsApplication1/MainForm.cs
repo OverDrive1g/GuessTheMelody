@@ -1,16 +1,7 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.ComponentModel;
-using System.Data;
-using System.Drawing;
-using System.IO;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 using System.Windows.Forms;
-using System.Xml;
 
-namespace WindowsFormsApplication1
+namespace GuessTheMelody
 {
     public partial class MainForm : Form
     {
@@ -29,12 +20,12 @@ namespace WindowsFormsApplication1
 
         private void playPicBox_MouseHover(object sender, EventArgs e)
         {
-            playPicBox.BackgroundImage = WindowsFormsApplication1.Properties.Resources.Играть__Свечение_;
+            playPicBox.BackgroundImage = GuessTheMelody.Properties.Resources.Играть__Свечение_;
         }
 
         private void playPicBox_MouseLeave(object sender, EventArgs e)
         {
-            playPicBox.BackgroundImage = WindowsFormsApplication1.Properties.Resources.Играть;
+            playPicBox.BackgroundImage = GuessTheMelody.Properties.Resources.Играть;
         }
 
         private void rulesPicBox_Click(object sender, EventArgs e)
@@ -47,12 +38,12 @@ namespace WindowsFormsApplication1
 
         private void rulesPicBox_MouseHover(object sender, EventArgs e)
         {
-            rulesPicBox.BackgroundImage = WindowsFormsApplication1.Properties.Resources.Правила__Свечение_;
+            rulesPicBox.BackgroundImage = GuessTheMelody.Properties.Resources.Правила__Свечение_;
         }
 
         private void rulesPicBox_MouseLeave(object sender, EventArgs e)
         {
-            rulesPicBox.BackgroundImage = WindowsFormsApplication1.Properties.Resources.Правила;
+            rulesPicBox.BackgroundImage = GuessTheMelody.Properties.Resources.Правила;
         }
 
         private void recordsPicBox_Click(object sender, EventArgs e)
@@ -65,12 +56,12 @@ namespace WindowsFormsApplication1
 
         private void recordsPicBox_MouseHover(object sender, EventArgs e)
         {
-            recordsPicBox.BackgroundImage = WindowsFormsApplication1.Properties.Resources.Рекорды__Свечение_;
+            recordsPicBox.BackgroundImage = GuessTheMelody.Properties.Resources.Рекорды__Свечение_;
         }
 
         private void recordsPicBox_MouseLeave(object sender, EventArgs e)
         {
-            recordsPicBox.BackgroundImage = WindowsFormsApplication1.Properties.Resources.Рекорды;
+            recordsPicBox.BackgroundImage = GuessTheMelody.Properties.Resources.Рекорды;
         }
 
         private void exitPicBox_Click(object sender, EventArgs e)
@@ -81,12 +72,12 @@ namespace WindowsFormsApplication1
 
         private void exitPicBox_MouseHover(object sender, EventArgs e)
         {
-            exitPicBox.BackgroundImage = WindowsFormsApplication1.Properties.Resources.EXIT;
+            exitPicBox.BackgroundImage = GuessTheMelody.Properties.Resources.EXIT;
         }
 
         private void exitPicBox_MouseLeave(object sender, EventArgs e)
         {
-            exitPicBox.BackgroundImage = WindowsFormsApplication1.Properties.Resources.Выход;
+            exitPicBox.BackgroundImage = GuessTheMelody.Properties.Resources.Выход;
         }
     }
 }

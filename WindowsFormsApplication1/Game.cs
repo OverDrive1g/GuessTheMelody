@@ -1,10 +1,8 @@
-﻿using GuessTheMelody;
-using System;
+﻿using System;
 using System.Windows.Forms;
-using WindowsFormsApplication1.Core;
-using WindowsFormsApplication1.Core.Levels;
+using GuessTheMelody.Core;
 
-namespace WindowsFormsApplication1
+namespace GuessTheMelody
 {
     public partial class Game : Form
     {

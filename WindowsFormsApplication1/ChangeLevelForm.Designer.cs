@@ -1,4 +1,4 @@
-﻿namespace WindowsFormsApplication1
+﻿namespace GuessTheMelody
 {
     partial class ChangeLevelForm
     {
@@ -41,7 +41,7 @@
             // pictureBox2
             // 
             this.pictureBox2.BackColor = System.Drawing.Color.Transparent;
-            this.pictureBox2.BackgroundImage = global::WindowsFormsApplication1.Properties.Resources.Средний;
+            this.pictureBox2.BackgroundImage = global::GuessTheMelody.Properties.Resources.Средний;
             this.pictureBox2.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
             this.pictureBox2.Location = new System.Drawing.Point(261, 227);
             this.pictureBox2.MaximumSize = new System.Drawing.Size(201, 69);
@@ -57,7 +57,7 @@
             // pictureBox1
             // 
             this.pictureBox1.BackColor = System.Drawing.Color.Transparent;
-            this.pictureBox1.BackgroundImage = global::WindowsFormsApplication1.Properties.Resources.легкий;
+            this.pictureBox1.BackgroundImage = global::GuessTheMelody.Properties.Resources.легкий;
             this.pictureBox1.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
             this.pictureBox1.Location = new System.Drawing.Point(261, 152);
             this.pictureBox1.MaximumSize = new System.Drawing.Size(201, 69);
@@ -73,7 +73,7 @@
             // pictureBox3
             // 
             this.pictureBox3.BackColor = System.Drawing.Color.Transparent;
-            this.pictureBox3.BackgroundImage = global::WindowsFormsApplication1.Properties.Resources.Сложный;
+            this.pictureBox3.BackgroundImage = global::GuessTheMelody.Properties.Resources.Сложный;
             this.pictureBox3.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
             this.pictureBox3.Location = new System.Drawing.Point(261, 302);
             this.pictureBox3.MaximumSize = new System.Drawing.Size(201, 69);
@@ -89,7 +89,7 @@
             // pictureBox4
             // 
             this.pictureBox4.BackColor = System.Drawing.Color.Transparent;
-            this.pictureBox4.BackgroundImage = global::WindowsFormsApplication1.Properties.Resources.Назад;
+            this.pictureBox4.BackgroundImage = global::GuessTheMelody.Properties.Resources.Назад;
             this.pictureBox4.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
             this.pictureBox4.Location = new System.Drawing.Point(-4, 302);
             this.pictureBox4.MaximumSize = new System.Drawing.Size(94, 84);
@@ -106,7 +106,7 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.BackgroundImage = global::WindowsFormsApplication1.Properties.Resources.выбор_уровня_сложности;
+            this.BackgroundImage = global::GuessTheMelody.Properties.Resources.выбор_уровня_сложности;
             this.ClientSize = new System.Drawing.Size(702, 391);
             this.Controls.Add(this.pictureBox4);
             this.Controls.Add(this.pictureBox3);

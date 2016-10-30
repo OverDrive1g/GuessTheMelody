@@ -1,4 +1,4 @@
-﻿namespace WindowsFormsApplication1
+﻿namespace GuessTheMelody
 {
     partial class Game
     {
@@ -45,7 +45,7 @@
             // button2
             // 
             this.button2.BackColor = System.Drawing.Color.Transparent;
-            this.button2.BackgroundImage = global::WindowsFormsApplication1.Properties.Resources.Фон_кнопки;
+            this.button2.BackgroundImage = global::GuessTheMelody.Properties.Resources.Фон_кнопки;
             this.button2.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
             this.button2.Location = new System.Drawing.Point(147, 109);
             this.button2.Name = "button2";
@@ -58,7 +58,7 @@
             // button3
             // 
             this.button3.BackColor = System.Drawing.Color.Transparent;
-            this.button3.BackgroundImage = global::WindowsFormsApplication1.Properties.Resources.Фон_кнопки;
+            this.button3.BackgroundImage = global::GuessTheMelody.Properties.Resources.Фон_кнопки;
             this.button3.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
             this.button3.Location = new System.Drawing.Point(147, 218);
             this.button3.Name = "button3";
@@ -71,7 +71,7 @@
             // button4
             // 
             this.button4.BackColor = System.Drawing.Color.Transparent;
-            this.button4.BackgroundImage = global::WindowsFormsApplication1.Properties.Resources.Фон_кнопки;
+            this.button4.BackgroundImage = global::GuessTheMelody.Properties.Resources.Фон_кнопки;
             this.button4.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
             this.button4.Location = new System.Drawing.Point(401, 109);
             this.button4.Name = "button4";
@@ -84,7 +84,7 @@
             // button5
             // 
             this.button5.BackColor = System.Drawing.Color.Transparent;
-            this.button5.BackgroundImage = global::WindowsFormsApplication1.Properties.Resources.Фон_кнопки;
+            this.button5.BackgroundImage = global::GuessTheMelody.Properties.Resources.Фон_кнопки;
             this.button5.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
             this.button5.Location = new System.Drawing.Point(401, 218);
             this.button5.Name = "button5";
@@ -113,7 +113,7 @@
             // pictureBox1
             // 
             this.pictureBox1.BackColor = System.Drawing.Color.Transparent;
-            this.pictureBox1.BackgroundImage = global::WindowsFormsApplication1.Properties.Resources.play;
+            this.pictureBox1.BackgroundImage = global::GuessTheMelody.Properties.Resources.play;
             this.pictureBox1.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
             this.pictureBox1.Location = new System.Drawing.Point(308, 121);
             this.pictureBox1.Name = "pictureBox1";
@@ -125,7 +125,7 @@
             // pictureBox2
             // 
             this.pictureBox2.BackColor = System.Drawing.Color.Transparent;
-            this.pictureBox2.BackgroundImage = global::WindowsFormsApplication1.Properties.Resources.pause;
+            this.pictureBox2.BackgroundImage = global::GuessTheMelody.Properties.Resources.pause;
             this.pictureBox2.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
             this.pictureBox2.Location = new System.Drawing.Point(308, 218);
             this.pictureBox2.Name = "pictureBox2";
@@ -148,7 +148,7 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.BackgroundImage = global::WindowsFormsApplication1.Properties.Resources.Игрово_фон_два;
+            this.BackgroundImage = global::GuessTheMelody.Properties.Resources.Игрово_фон_два;
             this.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
             this.ClientSize = new System.Drawing.Size(702, 392);
             this.Controls.Add(this.label2);

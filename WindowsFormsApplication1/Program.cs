@@ -1,10 +1,9 @@
-﻿using GuessTheMelody;
-using System;
+﻿using System;
 using System.Windows.Forms;
 using System.Xml;
-using WindowsFormsApplication1.Core;
+using GuessTheMelody.Core;
 
-namespace WindowsFormsApplication1
+namespace GuessTheMelody
 {
     static class Program
     {

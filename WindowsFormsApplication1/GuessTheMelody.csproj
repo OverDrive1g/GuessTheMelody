@@ -227,6 +227,29 @@
   <ItemGroup>
     <None Include="Resources\Игрово фон два.png" />
   </ItemGroup>
+  <ItemGroup>
+    <Content Include="score.xml" />
+    <Content Include="songs\5MDkh7E6.mp3" />
+    <Content Include="songs\9Q95Z8ke.mp3" />
+    <Content Include="songs\axrWNpgQ.mp3" />
+    <Content Include="songs\bLbYfp8r.mp3" />
+    <Content Include="songs\dxeZbpef.mp3" />
+    <Content Include="songs\F2feqm7j.mp3" />
+    <Content Include="songs\fzq9GBxY.mp3" />
+    <Content Include="songs\hexxHFTj.mp3" />
+    <Content Include="songs\JyZDdMFx.mp3" />
+    <Content Include="songs\LnmmTvU6.mp3" />
+    <Content Include="songs\mpwFN8G6.mp3" />
+    <Content Include="songs\psfR7tXq.mp3" />
+    <Content Include="songs\rCQSKW3y.mp3" />
+    <Content Include="songs\RssBA3LV.mp3" />
+    <Content Include="songs\u9Z8AnsR.mp3" />
+    <Content Include="songs\VZ7cuzwQ.mp3" />
+    <Content Include="songs\wBdE6nJ8.mp3" />
+    <Content Include="songs\ymUGm6hU.mp3" />
+    <Content Include="songs\ZvQQmAYZ.mp3" />
+    <Content Include="songs\zy2XbKhc.mp3" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
        Other similar extension points exist, see Microsoft.Common.targets.

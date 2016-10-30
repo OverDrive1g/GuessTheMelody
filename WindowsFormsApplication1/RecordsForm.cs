@@ -11,7 +11,7 @@ using GuessTheMelody.Core;
  */
 
 
-namespace WindowsFormsApplication1
+namespace GuessTheMelody
 {
     public partial class RecordsForm : Form
     {

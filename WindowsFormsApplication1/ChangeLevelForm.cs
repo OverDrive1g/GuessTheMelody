@@ -1,14 +1,7 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.ComponentModel;
-using System.Data;
-using System.Drawing;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace WindowsFormsApplication1
+namespace GuessTheMelody
 {
     public partial class ChangeLevelForm : Form
     {
@@ -39,12 +32,12 @@ namespace WindowsFormsApplication1
 
         private void pictureBox4_MouseHover_1(object sender, EventArgs e)
         {
-            pictureBox4.BackgroundImage = WindowsFormsApplication1.Properties.Resources.Назад__Свечение_;
+            pictureBox4.BackgroundImage = GuessTheMelody.Properties.Resources.Назад__Свечение_;
         }
 
         private void pictureBox4_MouseLeave_1(object sender, EventArgs e)
         {
-            pictureBox4.BackgroundImage = WindowsFormsApplication1.Properties.Resources.Назад;
+            pictureBox4.BackgroundImage = GuessTheMelody.Properties.Resources.Назад;
         }
 
         private void pictureBox4_Click_1(object sender, EventArgs e)
@@ -54,32 +47,32 @@ namespace WindowsFormsApplication1
 
         private void pictureBox1_MouseHover(object sender, EventArgs e)
         {
-            pictureBox1.BackgroundImage = WindowsFormsApplication1.Properties.Resources.легкий__свечение_;
+            pictureBox1.BackgroundImage = GuessTheMelody.Properties.Resources.легкий__свечение_;
         }
 
         private void pictureBox1_MouseLeave(object sender, EventArgs e)
         {
-            pictureBox1.BackgroundImage = WindowsFormsApplication1.Properties.Resources.легкий;
+            pictureBox1.BackgroundImage = GuessTheMelody.Properties.Resources.легкий;
         }
 
         private void pictureBox2_MouseHover(object sender, EventArgs e)
         {
-            pictureBox2.BackgroundImage = WindowsFormsApplication1.Properties.Resources.Средний__свечение_;
+            pictureBox2.BackgroundImage = GuessTheMelody.Properties.Resources.Средний__свечение_;
         }
 
         private void pictureBox2_MouseLeave(object sender, EventArgs e)
         {
-            pictureBox2.BackgroundImage = WindowsFormsApplication1.Properties.Resources.Средний;
+            pictureBox2.BackgroundImage = GuessTheMelody.Properties.Resources.Средний;
         }
 
         private void pictureBox3_MouseHover(object sender, EventArgs e)
         {
-            pictureBox3.BackgroundImage = WindowsFormsApplication1.Properties.Resources.Сложный__свечение_;
+            pictureBox3.BackgroundImage = GuessTheMelody.Properties.Resources.Сложный__свечение_;
         }
 
         private void pictureBox3_MouseLeave(object sender, EventArgs e)
         {
-            pictureBox3.BackgroundImage = WindowsFormsApplication1.Properties.Resources.Сложный;
+            pictureBox3.BackgroundImage = GuessTheMelody.Properties.Resources.Сложный;
         }
 
         private void pictureBox1_Click(object sender, EventArgs e)
