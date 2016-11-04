@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace GuessTheMelody.Properties
+namespace WindowsFormsApplication1.Properties
 {
 
 

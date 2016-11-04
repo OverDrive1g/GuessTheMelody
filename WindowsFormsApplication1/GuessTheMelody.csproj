@@ -31,6 +31,10 @@
     <ErrorReport>prompt</ErrorReport>
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
+  <PropertyGroup>
+    <Win32Resource>
+    </Win32Resource>
+  </PropertyGroup>
   <ItemGroup>
     <Reference Include="NAudio">
       <HintPath>..\..\..\..\..\..\..\Libs\C#\NAudio\NAudio.dll</HintPath>
@@ -136,98 +140,39 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="Resources\Играть.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\Правила.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\Играть %28Свечение%29.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\Правила %28Свечение%29.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\Модель курсовой.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\правила форма основа пинг.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\Назад %28Свечение%29.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\Назад.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\выбор уровня сложности.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\Средний.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\легкий %28свечение%29.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\легкий.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\Сложный %28свечение%29.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\Сложный.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\Средний %28свечение%29.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\Выход.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\EXIT.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\Новая_форма2.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\Ок.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\Введите имя.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\Ок %28Свечение%29.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\введите_имя1.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\Рекорды.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\Рекорды %28Свечение%29.png" />
-  </ItemGroup>
-  <ItemGroup>
     <None Include="songs.xml">
       <SubType>Designer</SubType>
     </None>
   </ItemGroup>
   <ItemGroup>
-    <None Include="Resources\play.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\pause.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\Игровой фон.JPG" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\Фон кнопки.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\Игрово фон два.png" />
-  </ItemGroup>
-  <ItemGroup>
+    <Content Include="Resources\EXIT.png" />
+    <Content Include="Resources\pause.png" />
+    <Content Include="Resources\play.png" />
+    <Content Include="Resources\Введите имя.png" />
+    <Content Include="Resources\введите_имя1.png" />
+    <Content Include="Resources\выбор уровня сложности.png" />
+    <Content Include="Resources\Выход.png" />
+    <Content Include="Resources\Играть %28Свечение%29.png" />
+    <Content Include="Resources\Играть.png" />
+    <Content Include="Resources\Игрово фон два.png" />
+    <Content Include="Resources\легкий %28свечение%29.png" />
+    <Content Include="Resources\легкий.png" />
+    <Content Include="Resources\Модель курсовой.png" />
+    <Content Include="Resources\Назад %28Свечение%29.png" />
+    <Content Include="Resources\Назад.png" />
+    <Content Include="Resources\Новая_форма2.png" />
+    <Content Include="Resources\Ок %28Свечение%29.png" />
+    <Content Include="Resources\Ок.png" />
+    <Content Include="Resources\Правила %28Свечение%29.png" />
+    <Content Include="Resources\правила форма основа пинг.png" />
+    <Content Include="Resources\Правила.png" />
+    <Content Include="Resources\Рекорды %28Свечение%29.png" />
+    <Content Include="Resources\Рекорды.png" />
+    <Content Include="Resources\Сложный %28свечение%29.png" />
+    <Content Include="Resources\Сложный.png" />
+    <Content Include="Resources\Средний %28свечение%29.png" />
+    <Content Include="Resources\Средний.png" />
+    <Content Include="Resources\Фон кнопки.png" />
     <Content Include="score.xml" />
     <Content Include="songs\5MDkh7E6.mp3" />
     <Content Include="songs\9Q95Z8ke.mp3" />
@@ -250,6 +195,7 @@
     <Content Include="songs\ZvQQmAYZ.mp3" />
     <Content Include="songs\zy2XbKhc.mp3" />
   </ItemGroup>
+  <ItemGroup />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
        Other similar extension points exist, see Microsoft.Common.targets.

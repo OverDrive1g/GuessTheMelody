@@ -121,6 +121,9 @@
   <data name="Введите_имя" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\Введите имя.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
+  <data name="Новая_форма2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Новая_форма2.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
   <data name="Правила__Свечение_" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\Правила (Свечение).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
@@ -130,14 +133,14 @@
   <data name="Назад" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\Назад.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
+  <data name="введите_имя1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\введите_имя1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
   <data name="play" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\play.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="Ок" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\Ок.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="Фон кнопки" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\Фон кнопки.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="Рекорды" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\Рекорды.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
@@ -157,9 +160,6 @@
   <data name="pause" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\pause.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="Игровой фон" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\Игровой фон.JPG;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
   <data name="Сложный__свечение_" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\Сложный (свечение).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
@@ -174,9 +174,6 @@
   </data>
   <data name="Назад__Свечение_" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\Назад (Свечение).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="Новая_форма2" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\Новая_форма2.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="Играть__Свечение_" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\Играть (Свечение).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
@@ -193,9 +190,6 @@
   <data name="Средний" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\Средний.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="введите_имя1" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\введите_имя1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
   <data name="Модель курсовой" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\Модель курсовой.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
@@ -205,7 +199,7 @@
   <data name="легкий" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\легкий.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="Игрово фон два" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\Игрово фон два.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="Фон кнопки" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Фон кнопки.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
 </root>
