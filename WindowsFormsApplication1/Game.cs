@@ -43,6 +43,7 @@ namespace GuessTheMelody
             if(idCurrentSong < thisLevel.getSongs().Length)
             {
                 currentSong = thisLevel.getSongs()[idCurrentSong++];
+                currentSong.Init();
 
                 button2.Text = currentSong.answer[0];
                 button3.Text = currentSong.answer[1];

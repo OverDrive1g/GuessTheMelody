@@ -2,15 +2,6 @@
 using System.Windows.Forms;
 using GuessTheMelody.Core;
 
-/**
- * TODO
- * Вывод результатов
- * Сделать селектор (легкий, средний, сложный)
- * При вборе селектора отображать 3 самых лучших результатов 
- * 
- */
-
-
 namespace GuessTheMelody
 {
     public partial class RecordsForm : Form

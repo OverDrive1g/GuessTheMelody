@@ -38,29 +38,6 @@ namespace GuessTheMelody
             }
         }
 
-        public static void addUserToXML(User user)
-        {
-            XmlDocument document = new XmlDocument();
-            document.Load("score.xml");
-
-            XmlNode element = document.CreateElement("record");
-            document.DocumentElement.AppendChild(element);
-
-            XmlNode nameEl = document.CreateElement("name");
-            nameEl.InnerText = user._name;
-            element.AppendChild(nameEl);
-
-            XmlNode levelEl = document.CreateElement("level");
-            levelEl.InnerText = user._level;
-            element.AppendChild(levelEl);
-
-            XmlNode scoreEl = document.CreateElement("score");
-            scoreEl.InnerText = user._score.ToString();
-            element.AppendChild(scoreEl);
-
-            document.Save("score.xml");
-        }
-
         private static void loadSongs()
         {
             Songs s = Songs.Instanse;
